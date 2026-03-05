@@ -1,0 +1,81 @@
+﻿#,Kanji,Onyomi,Onyomi Japanese,Kunyomi,Kunyomi Japanese,Kanji Meaning,Learning Status,Level
+1,日,"nichi, jitsu","ニチ, ジツ","hi, -bi, -ka","ひ, -び, -か","day, sun, Japan, counter for days",unseen,N5
+2,一,ichi,イチ,hito(tsu),ひと(つ),one,unseen,N5
+3,国,koku,コク,kuni,くに,country,unseen,N5
+4,人,"jin, nin",ジン、 ニン,hito,ひと,person,unseen,N5
+5,年,nen,ネン,toshi,とし,"year, counter for years",unseen,N5
+6,大,"dai, tai",ダイ、 タイ,oo(kii),おお(きい),"large, big",unseen,N5
+7,十,juu,ジュウ,"tou, to",とお、 と,"ten, 10",unseen,N5
+8,二,"ni, ji",ニ、 ジ,futa(tsu),ふた(つ),"two, 2",unseen,N5
+9,本,hon,ホン,moto,もと,"book, present, true, counter for long cylindrical things",unseen,N5
+10,中,chuu,チュウ,"naka, uchi, ata(ru)",なか、 うち、 あた(る),"in, inside, middle, mean, center",unseen,N5
+11,長,chou,チョウ,"naga(i), osa",なが(い)、 おさ,"long, leader, superior, senior",unseen,N5
+12,出,"shutsu, sui",シュツ、 スイ,"de(ru), da(su), i(deru)",で(る)、 だ(す)、 い(でる),"exit, leave, go out",unseen,N5
+13,三,san,サン,mi(tsu),み(つ),"three, 3",unseen,N5
+14,時,ji,ジ,"toki, doki",とき、 -どき,"time, hour",unseen,N5
+15,行,"kou, gyou, an",コウ、 ギョウ、 アン,"i(ku), yu(ku), okona(u)",い(く)、 ゆ(く)、 おこな(う),"going, journey, carry out, line, row",unseen,N5
+16,見,ken,ケン,"mi(ru), mi(seru)",み(る)、 み(せる),"see, hopes, chances, idea, opinion, look at, visible",unseen,N5
+17,月,"getsu, gatsu",ゲツ、 ガツ,tsuki,つき,"month, moon",unseen,N5
+18,分,"bun, fun, bu",ブン、 フン、 ブ,wa(keru),わ(ける),"part, minute of time, understand",unseen,N5
+19,後,"go, kou",ゴ、 コウ,"nochi, ushi(ro), ato",のち、 うし(ろ)、 あと,"behind, back, later",unseen,N5
+20,前,zen,ゼン,mae,まえ,"in front, before",unseen,N5
+21,生,"sei, shou",セイ、 ショウ,"i(kiru), u(mu), o(u), ha(eru), nama",い(きる)、 う(む)、 お(う)、 は(える)、 なま,"life, genuine, birth",unseen,N5
+22,五,go,ゴ,itsu(tsu),いつ(つ),"five, 5",unseen,N5
+23,間,"kan, ken",カン、 ケン,"aida, ma, ai",あいだ、 ま、 あい,"interval, space",unseen,N5
+24,上,"jou, shou, shan",ジョウ、 ショウ、 シャン,"ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)",うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る),"above, up",unseen,N5
+25,東,tou,トウ,higashi,ひがし,east,unseen,N5
+26,四,shi,シ,"yo(tsu), yon",よ(つ)、 よん,"four, 4",unseen,N5
+27,今,"kon, kin",コン、 キン,ima,いま,now; the present,unseen,N5
+28,金,"kin, kon, gon",キン、 コン、 ゴン,"kane, kana, gane",かね、 かな-、 -がね,gold,unseen,N5
+29,九,"kyuu, ku",キュウ、 ク,kokono(tsu),ここの(つ),"nine, 9",unseen,N5
+30,入,nyuu,ニュウ,"i(ru), hai(ru)",い(る)、はい(る),"enter, insert",unseen,N5
+31,学,gaku,ガク,mana(bu),まな(ぶ),"study, learning, science",unseen,N5
+32,高,kou,コウ,taka(i),たか(い),"tall, high, expensive",unseen,N5
+33,円,en,エン,maru(i),まる(い),"circle, yen, round",unseen,N5
+34,子,"shi, su, tsu",シ、 ス、 ツ,"ko, ne",こ、 ね,child,unseen,N5
+35,外,"gai, ge",ガイ、 ゲ,"soto, hoka, hazu-, to-",そと、 ほか、 はず(す)、 と-,outside,unseen,N5
+36,八,hachi,ハチ,"ya(tsu), you",や(つ)、 よう,"eight, 8",unseen,N5
+37,六,roku,ロク,"mu(tsu), mui",む(つ)、 むい,"six, 6",unseen,N5
+38,下,"ka, ge",カ、 ゲ,"shita, shimo, moto, sa(geru), kuda(ru), o(rosu)",した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす),"below, down, descend, give, low, inferior",unseen,N5
+39,来,"rai, tai",ライ、 タイ,"kuru, kitaru, ki, ko",く.る、 きた.る、 き、 こ,"come, due, next, cause, become",unseen,N5
+40,気,"ki, ke",キ、 ケ,iki,いき,"spirit, mind, air, atmosphere, mood",unseen,N5
+41,小,shou,ショウ,"chii(sai), ko-, o-, sa-",ちい(さい)、 こ-、 お-、 さ-,"little, small",unseen,N5
+42,七,shichi,シチ,"nana(tsu), nano",なな(つ)、 なの,"seven, 7",unseen,N5
+43,山,"san, sen",サン、 セン,yama,やま,mountain,unseen,N5
+44,話,wa,ワ,"hana(su), hanashi",はな(す)、 はなし,"tale, talk",unseen,N5
+45,女,jo,ジョ,"onnna, me",おんな、 め,"woman, female",unseen,N5
+46,北,hoku,ホク,kita,きた,north,unseen,N5
+47,午,go,ゴ,uma,うま,"noon, sign of the horse",unseen,N5
+48,百,"hyaku, byaku",ヒャク、 ビャク,momo,もも,hundred,unseen,N5
+49,書,sho,ショ,kaku,か(く),write,unseen,N5
+50,先,sen,セン,"saki, ma(zu)",さき、 ま(ず),"before, ahead, previous, future, precedence",unseen,N5
+51,名,"mei, myou",メイ、 ミョウ,na,な,"name, noted, distinguished, reputation",unseen,N5
+52,川,sen,セン,kawa,かわ,"river, stream",unseen,N5
+53,千,sen,セン,chi,ち,thousand,unseen,N5
+54,水,sui,スイ,mizu,みず,water,unseen,N5
+55,半,han,ハン,naka(ba),なか(ば),"half, middle, odd number, semi-",unseen,N5
+56,男,"dan, nan",ダン、 ナン,"otoko, o",おとこ、 お,male; man,unseen,N5
+57,西,"sei, sai",セイ、 サイ,nishi,にし,west,unseen,N5
+58,電,den,デン,,,electricity; electric powered,unseen,N5
+59,校,kou,コウ,,,"school, exam",unseen,N5
+60,語,go,ゴ,kata(ru),かた(る),"word, speech, language",unseen,N5
+61,土,"do, to",ド、 ト,tsuchi,つち,"soil, earth, ground",unseen,N5
+62,木,"boku, moku",ボク、 モク,"ki, ko",き、 こ-,"tree, wood",unseen,N5
+63,聞,"bun, mon",ブン、 モン,ki(ku),き(く),to hear; to listen; to ask,unseen,N5
+64,食,"shoku, jiki",ショク、 ジキ,"k(u), ta(beru), ha(mu)",く(う)、 た(べる)、 は(む),"eat, food",unseen,N5
+65,車,sha,シャ,kuruma,くるま,"car, wheel",unseen,N5
+66,何,ka,カ,"nani, nan",なに、 なん,what,unseen,N5
+67,南,"nan, na",ナン、 ナ,minami,みなみ,south,unseen,N5
+68,万,"man, ban",マン、 バン,,,"ten thousand, 10,000",unseen,N5
+69,毎,mai,マイ,goto(ni),ごと(に),every,unseen,N5
+70,白,"haku, byaku",ハク、 ビャク,shiro(i),しろ(い),white,unseen,N5
+71,天,ten,テン,amatsu,あまつ,"heavens, sky, imperial",unseen,N5
+72,母,bo,ボ,"haha, kaa",はは、 かあ,mother,unseen,N5
+73,火,ka,カ,"hi, bi, ho",ひ、 -び、 ほ-,fire,unseen,N5
+74,右,"u, yuu",ウ、 ユウ,migi,みぎ,right (direction),unseen,N5
+75,読,"doku, toku, tou",ドク、 トク、 トウ,yo(mu),よ(む),to read,unseen,N5
+76,友,yuu,ユウ,tomo,とも,friend,unseen,N5
+77,左,"sa, sha",サ、 シャ,hidari,ひだり,left,unseen,N5
+78,休,kyuu,キュウ,yasu(mu),やす(む),"rest, day off, retire, sleep",unseen,N5
+79,父,fu,フ,"chichi, tou",ちち、 とう,father,unseen,N5
+80,雨,u,ウ,"ame, ama",あめ、 あま,rain,unseen,N5

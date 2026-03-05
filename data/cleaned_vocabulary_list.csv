@@ -1,0 +1,645 @@
+#,Word,Hiragana,Romaji,Type,Meaning,Learning Status,Level
+1.0,浴びる,あびる,abiru,"Verb, Ichidan verb, Transitive verb","to bathe, to shower",unseen,N5
+2.0,危ない,あぶない,abunai,"Adjective, い-adjective",dangerous,unseen,N5
+3.0,あっち,,acchi,Pronoun,over there,unseen,N5
+4.0,あちら,,achira,Pronoun,there,unseen,N5
+5.0,上げる,あげる,ageru,"Verb, Ichidan verb, Transitive verb",to raise; to elevate; to give,unseen,N5
+6.0,赤,あか,aka,Noun,red; crimson; scarlet​,unseen,N5
+7.0,赤い,あかい,akai,"Adjective, い-adjective",red; crimson; scarlet​,unseen,N5
+8.0,明るい,あかるい,akarui,"Adjective, い-adjective",bright; light,unseen,N5
+9.0,開ける,あける,akeru,"Verb, Ichidan verb, Transitive verb","to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",unseen,N5
+10.0,秋,あき,aki,Noun,autumn; fall,unseen,N5
+11.0,開く,あく,aku,"Verb, Godan verb, Intransitive verb","to open (e.g. doors, business, etc)",unseen,N5
+12.0,甘い,あまい,amai,"Adjective, い-adjective",sweet; sweet-tasting; sugary; naive; indulgent,unseen,N5
+13.0,雨,あめ,ame,Noun,rain,unseen,N5
+14.0,飴,あめ,ame,Noun,candy,unseen,N5
+15.0,あなた,,anata,Pronoun,you,unseen,N5
+16.0,姉,あね,ane,Noun,older sister; elder sister​,unseen,N5
+17.0,兄,あに,ani,Noun,elder brother; older brother​,unseen,N5
+18.0,あの,,ano,Pre-noun adjectival,that,unseen,N5
+19.0,青,あお,ao,Noun,blue; azure,unseen,N5
+20.0,青い,あおい,aoi,"Adjective, い-adjective",blue; azure,unseen,N5
+21.0,アパート,,apaato,"Noun, Katakana",apartment,unseen,N5
+22.0,洗う,あらう,arau,"Verb, Godan verb, Transitive verb",to wash,unseen,N5
+23.0,あれ,,are,Pronoun,that,unseen,N5
+24.0,ある,,aru,"Verb, Godan verb, Intransitive verb","to be, to have",unseen,N5
+25.0,歩く,あるく,aruku,"Verb, Godan verb, Intransitive verb",to walk,unseen,N5
+26.0,朝,あさ,asa,Noun,morning,unseen,N5
+27.0,朝ご飯,あさごはん,asagohan,Noun,breakfast,unseen,N5
+28.0,明後日,あさって,asatte,Noun,day after tomorrow,unseen,N5
+29.0,足,あし,ashi,Noun,foot; leg; paw; arm,unseen,N5
+30.0,明日,あした,ashita,"Noun, Temporal noun",tomorrow,unseen,N5
+31.0,遊ぶ,あそぶ,asobu,"Verb, Godan verb, Intransitive verb",to play; to enjoy oneself,unseen,N5
+32.0,あそこ,,asoko,Pronoun,over there,unseen,N5
+33.0,頭,あたま,atama,Noun,head,unseen,N5
+34.0,新しい,あたらしい,atarashii,"Adjective, い-adjective",new; novel; fresh; recent; latest,unseen,N5
+35.0,暖かい,あたたかい,atatakai,"Adjective, い-adjective",warm,unseen,N5
+36.0,後,あと,ato,Noun,behind; after; remainder; left; also,unseen,N5
+37.0,暑い,あつい,atsui,"Adjective, い-adjective",hot; sultry,unseen,N5
+38.0,厚い,あつい,atsui,"Adjective, い-adjective",thick,unseen,N5
+39.0,熱い,あつい,atsui,"Adjective, い-adjective",hot,unseen,N5
+40.0,会う,あう,au,"Verb, Godan verb, Intransitive verb",to meet; to encounter; to see,unseen,N5
+41.0,晩ご飯,ばんごはん,bangohan,Noun,dinner; evening meal,unseen,N5
+42.0,番号,ばんごう,bangou,Noun,number,unseen,N5
+43.0,バス,,basu,"Noun, Katakana",bus,unseen,N5
+44.0,バター,,bataa,"Noun, Katakana",butter​,unseen,N5
+45.0,ベッド,,beddo,"Noun, Katakana",bed,unseen,N5
+46.0,勉強,べんきょう,benkyou,"Noun, Suru verb",to study,unseen,N5
+47.0,便利,べんり,benri,な-adjective,convenient; handy; useful,unseen,N5
+48.0,ボールペン,,boorupen,"Noun, Katakana",ball-point pen,unseen,N5
+49.0,ボタン,,botan,"Noun, Katakana",button,unseen,N5
+50.0,帽子,ぼうし,boushi,Noun,hat; cap,unseen,N5
+51.0,文章,ぶんしょう,bunshou,Noun,sentence,unseen,N5
+52.0,豚肉,ぶたにく,butaniku,Noun,pork,unseen,N5
+53.0,病院,びょういん,byouin,Noun,hospital,unseen,N5
+54.0,病気,びょうき,byouki,Noun,illness; disease; sickness,unseen,N5
+55.0,茶色,ちゃいろ,chairo,Noun,brown,unseen,N5
+56.0,茶碗,ちゃわん,chawan,Noun,rice bowl; tea cup; teacup,unseen,N5
+57.0,父,ちち,chichi,Noun,father,unseen,N5
+58.0,違う,ちがう,chigau,"Verb, Godan verb, Intransitive verb",to differ,unseen,N5
+59.0,小さい,ちいさい,chiisai,"Adjective, い-adjective",small; little; tiny,unseen,N5
+60.0,小さな,ちいさな,chiisana,Pre-noun adjectival,small; little; tiny​,unseen,N5
+61.0,近い,ちかい,chikai,い-adjective,near; close,unseen,N5
+62.0,地下鉄,ちかてつ,chikatetsu,Noun,subway; underground train,unseen,N5
+63.0,地図,ちず,chizu,Noun,map,unseen,N5
+64.0,ちょっと,,chotto,Adverb,a little,unseen,N5
+65.0,丁度,ちょうど,choudo,Adverb,exactly,unseen,N5
+66.0,台所,だいどころ,daidokoro,Noun,kitchen,unseen,N5
+67.0,大学,だいがく,daigaku,Noun,university; college,unseen,N5
+68.0,大丈夫,だいじょうぶ,daijoubu,"Adjective, な-adjective, Adverb",OK; okay; alright; problem free,unseen,N5
+69.0,大好き,だいすき,daisuki,"Adjective, な-adjective",love; like; like very much,unseen,N5
+70.0,だんだん,,dandan,Adverb,gradually,unseen,N5
+71.0,誰,だれ,dare,Pronoun,who,unseen,N5
+72.0,誰か,だれか,dareka,Pronoun,someone; somebody,unseen,N5
+73.0,出す,だす,dasu,"Verb, Godan verb, Transitive verb",to take out; to get out; to put out; to reveal,unseen,N5
+74.0,出口,でぐち,deguchi,Noun,exit; gateway; way out,unseen,N5
+75.0,出かける,でかける,dekakeru,"Verb, Ichidan verb, Intransitive verb",to go out; to leave; to depart,unseen,N5
+76.0,電気,でんき,denki,Noun,electricity,unseen,N5
+77.0,電車,でんしゃ,densha,Noun,train; electric train,unseen,N5
+78.0,電話,でんわ,denwa,"Noun, Verb, Suru verb",telephone (call / device)l; phone call,unseen,N5
+79.0,デパート,,depaato,"Noun, Katakana",department store,unseen,N5
+80.0,出る,でる,deru,"Verb, Ichidan verb, Intransitive verb",to leave; to exit; to appear; to go out,unseen,N5
+81.0,ドア,,doa,"Noun, Katakana",door,unseen,N5
+82.0,どっち,,docchi,Pronoun,which; which one,unseen,N5
+83.0,どちら,,dochira,Pronoun,which of two,unseen,N5
+84.0,どこ,,doko,Pronoun,where; what place​,unseen,N5
+85.0,どなた,,donata,Noun,who,unseen,N5
+86.0,どの,,dono,Pre-noun adjectival,which,unseen,N5
+87.0,どれ,,dore,Pronoun,which (of three or more)​,unseen,N5
+88.0,どう,,dou,Adverb,how; in what way; how about​,unseen,N5
+89.0,動物,どうぶつ,doubutsu,Noun,animal,unseen,N5
+90.0,どうも,,doumo,Adverb,thank you; thanks,unseen,N5
+91.0,どうぞ,,douzo,Adverb,please,unseen,N5
+92.0,土曜日,どようび,doyoubi,Noun,Saturday,unseen,N5
+93.0,絵,え,e,Noun,picture,unseen,N5
+94.0,ええ,,ee,Noun,yes; that is correct; right,unseen,N5
+95.0,映画,えいが,eiga,Noun,movie; film,unseen,N5
+96.0,映画館,えいがかん,eigakan,Noun,movie theater; cinema,unseen,N5
+97.0,英語,えいご,eigo,Noun,English language,unseen,N5
+98.0,駅,えき,eki,Noun,station,unseen,N5
+99.0,鉛筆,えんぴつ,enpitsu,Noun,pencil,unseen,N5
+100.0,エレベーター,,erebeetaa,"Noun, Katakana",elevator,unseen,N5
+101.0,フィルム,,firumu,"Noun, Katakana",film,unseen,N5
+102.0,フォーク,,fooku,"Noun, Katakana",fork,unseen,N5
+103.0,服,ふく,fuku,Noun,clothes,unseen,N5
+104.0,吹く,ふく,fuku,"Verb, Godan verb, Intransitive verb",to blow (of the wind),unseen,N5
+105.0,降る,ふる,furu,"Verb, Godan verb, Intransitive verb",to fall,unseen,N5
+106.0,古い,ふるい,furui,い-adjective,old (not used for people),unseen,N5
+107.0,二人,ふたり,futari,Noun,two people; pair; couple,unseen,N5
+108.0,二つ,ふたつ,futatsu,"Noun, Numeric",two; 2,unseen,N5
+109.0,太い,ふとい,futoi,"Adjective, い-adjective",fat; thick,unseen,N5
+110.0,二日,ふつか,futsuka,Noun,the second day of the month / 2 days,unseen,N5
+111.0,封筒,ふうとう,fuutou,Noun,envelope,unseen,N5
+112.0,冬,ふゆ,fuyu,Noun,winter,unseen,N5
+113.0,外国,がいこく,gaikoku,Noun,foreign country,unseen,N5
+114.0,外国人,がいこくじん,gaikokujin,Noun,foreigner; foreign citizen; foreign national; alien; non-Japanese,unseen,N5
+115.0,学校,がっこう,gakkou,Noun,school,unseen,N5
+116.0,学生,がくせい,gakusei,Noun,student,unseen,N5
+117.0,玄関,げんかん,genkan,Noun,entrance,unseen,N5
+118.0,元気,げんき,genki,"Noun, Adjective, な-adjective",lively; full of spirit; energetic; healthy,unseen,N5
+119.0,月曜日,げつようび,getsuyoubi,Noun,Monday,unseen,N5
+120.0,銀行,ぎんこう,ginkou,Noun,bank,unseen,N5
+121.0,ギター,,gitaa,"Noun, Katakana",guitar,unseen,N5
+122.0,五,ご,go,"Noun, Numeric",five; 5,unseen,N5
+123.0,午後,ごご,gogo,Noun,afternoon; p.m.,unseen,N5
+124.0,ご飯,ごはん,gohan,Noun,"cooked rice, meal",unseen,N5
+125.0,午前,ごぜん,gozen,Noun,morning; a.m.,unseen,N5
+126.0,グラム,,guramu,"Noun, Katakana",gram,unseen,N5
+127.0,牛肉,ぎゅうにく,gyuuniku,Noun,beef,unseen,N5
+128.0,牛乳,ぎゅうにゅう,gyuunyuu,Noun,(cow's) milk,unseen,N5
+129.0,歯,は,ha,Noun,tooth,unseen,N5
+130.0,八,はち,hachi,"Noun, Numeric",eight: 8,unseen,N5
+131.0,葉書,はがき,hagaki,Noun,postcard,unseen,N5
+132.0,母,はは,haha,Noun,mother,unseen,N5
+133.0,はい,,hai,Noun,yes; that is correct​,unseen,N5
+134.0,入る,はいる,hairu,"Verb, Godan verb, Intransitive verb",to enter; to go into,unseen,N5
+135.0,灰皿,はいざら,haizara,Noun,ashtray,unseen,N5
+136.0,始まる,はじまる,hajimaru,"Verb, Godan verb, Intransitive verb",to begin,unseen,N5
+137.0,初めて,はじめて,hajimete,Adverb,for the first time,unseen,N5
+138.0,箱,はこ,hako,Noun,box; crate,unseen,N5
+139.0,履く,はく,haku,"Verb, Godan verb, Transitive verb","to wear, to put on trousers",unseen,N5
+140.0,半,はん,han,Noun,half; semi-; half-past,unseen,N5
+141.0,花,はな,hana,Noun,flower,unseen,N5
+142.0,鼻,はな,hana,Noun,nose,unseen,N5
+143.0,話,はなし,hanashi,Noun,talk; speech; chat; conversation​,unseen,N5
+144.0,話す,はなす,hanasu,"Verb, Godan verb, Transitive verb",to speak; to talk; to converse,unseen,N5
+145.0,半分,はんぶん,hanbun,Noun,half,unseen,N5
+146.0,ハンカチ,,hankachi,"Noun, Katakana",handkerchief​,unseen,N5
+147.0,晴れ,はれ,hare,Noun,clear weather,unseen,N5
+148.0,晴れる,はれる,hareru,"Verb, Ichidan verb, Intransitive verb",to be sunny,unseen,N5
+149.0,春,はる,haru,Noun,spring; springtime,unseen,N5
+150.0,貼る,はる,haru,"Verb, Godan verb, Transitive verb",to stick; to paste,unseen,N5
+151.0,箸,はし,hashi,Noun,chopsticks,unseen,N5
+152.0,橋,はし,hashi,Noun,bridge,unseen,N5
+153.0,走る,はしる,hashiru,"Verb, Godan verb, Intransitive verb",to run,unseen,N5
+154.0,二十歳,はたち,hatachi,Noun,20 years old; twenty years old,unseen,N5
+155.0,働く,はたらく,hataraku,"Verb, Godan verb, Intransitive verb",to work,unseen,N5
+156.0,二十日,はつか,hatsuka,Noun,twentieth day of the month / 20 days,unseen,N5
+157.0,速い,はやい,hayai,"Adjective, い-adjective",fast; quick; hasty; brisk,unseen,N5
+158.0,早い,はやい,hayai,"Adjective, い-adjective",fast; early,unseen,N5
+159.0,辺,へん,hen,Noun,area,unseen,N5
+160.0,下手,へた,heta,"Noun, Adjective, な-adjective",unskillful; poor; awkward​,unseen,N5
+161.0,部屋,へや,heya,Noun,room,unseen,N5
+162.0,左,ひだり,hidari,Noun,left; left hand side,unseen,N5
+163.0,東,ひがし,higashi,Noun,east,unseen,N5
+164.0,飛行機,ひこうき,hikouki,Noun,airplane; aircraft,unseen,N5
+165.0,引く,ひく,hiku,"Verb, Godan verb, Transitive verb",to pull,unseen,N5
+166.0,弾く,ひく,hiku,"Verb, Godan verb, Transitive verb",to play,unseen,N5
+167.0,低い,ひくい,hikui,い-adjective,"short,low",unseen,N5
+168.0,暇,ひま,hima,"Noun, な-adjective",free time,unseen,N5
+169.0,広い,ひろい,hiroi,い-adjective,spacious; vast; wide,unseen,N5
+170.0,昼,ひる,hiru,Noun,noon; midday; daytime; lunch,unseen,N5
+171.0,昼ご飯,ひるごはん,hirugohan,Noun,lunch,unseen,N5
+172.0,人,ひと,hito,Noun,person; human,unseen,N5
+173.0,一人,ひとり,hitori,"Noun, Adverb",one person​; alone; single,unseen,N5
+174.0,一つ,ひとつ,hitotsu,"Noun, Numeric",one thing; only,unseen,N5
+175.0,ほか,,hoka,Noun,"other (place, thing, person); the rest",unseen,N5
+176.0,本,ほん,hon,Noun,book; volume; script,unseen,N5
+177.0,本棚,ほんだな,hondana,Noun,bookshelf; bookcase,unseen,N5
+178.0,本当,ほんとう,hontou,"Noun, Adjective, な-adjective",truth; reality; actuality; fact,unseen,N5
+179.0,欲しい,ほしい,hoshii,"Adjective, い-adjective",want,unseen,N5
+180.0,細い,ほそい,hosoi,"Adjective, い-adjective",thin; slender,unseen,N5
+181.0,ホテル,,hoteru,"Noun, Katakana",hotel,unseen,N5
+182.0,百,ひゃく,hyaku,"Noun, Numeric",100; hundred,unseen,N5
+183.0,一,いち,ichi,"Noun, Prefix, Suffix, Numeric",one; best; first; foremost; start,unseen,N5
+184.0,一番,いちばん,ichiban,"Noun, Adverb","number one; first; 1st, first place​; best; most​",unseen,N5
+185.0,一日,いちにち,ichinichi,"Noun, Adverbial Noun","one day, all day",unseen,N5
+186.0,家,いえ,ie,Noun,"house, residence, family",unseen,N5
+187.0,いかが,,ikaga,Adverb,how; in what way; how about​,unseen,N5
+188.0,池,いけ,ike,Noun,pond,unseen,N5
+189.0,行く,いく,iku,"Verb, Godan verb, Intransitive verb",to go; to move,unseen,N5
+190.0,いくら,,ikura,"Noun, Adverb",how much?; how many?​,unseen,N5
+191.0,いくつ,,ikutsu,Adverb,"how many?,how old?",unseen,N5
+192.0,今,いま,ima,"Noun, Adverbial Noun",now; the present time; soon,unseen,N5
+193.0,意味,いみ,imi,Noun,meaning; significance; sense,unseen,N5
+194.0,妹,いもうと,imouto,Noun,younger sister,unseen,N5
+195.0,犬,いぬ,inu,Noun,dog,unseen,N5
+196.0,入れる,いれる,ireru,"Verb, Ichidan verb, Transitive verb",to put in; to let in; to take in; to bring in; to insert; to install,unseen,N5
+197.0,入口,いりぐち,iriguchi,Noun,entrance; entry; gate,unseen,N5
+198.0,色,いろ,iro,Noun,colour; color,unseen,N5
+199.0,色々,いろいろ,iroiro,"Noun, Adjective, な-adjective, Adverb",various,unseen,N5
+200.0,要る,いる,iru,"Verb, Godan verb, Intransitive verb",to be needed,unseen,N5
+201.0,居る,いる,iru,"Verb, Ichidan verb, Intransitive verb","to be, to have",unseen,N5
+202.0,医者,いしゃ,isha,Noun,(medical) doctor; physician,unseen,N5
+203.0,忙しい,いそがしい,isogashii,"Adjective, い-adjective",busy,unseen,N5
+204.0,一緒,いっしょ,issho,Noun,together; at the same time; same; identical,unseen,N5
+205.0,椅子,いす,isu,Noun,chair,unseen,N5
+206.0,痛い,いたい,itai,"Adjective, い-adjective",painful; sore​,unseen,N5
+207.0,いつ,,itsu,Pronoun,when,unseen,N5
+208.0,五日,いつか,itsuka,Noun,the fifth day of the month / 5 days,unseen,N5
+209.0,五つ,いつつ,itsutsu,"Noun, Numeric",five; 5,unseen,N5
+210.0,言う,いう,iu,"Verb, Godan verb",to say; to call,unseen,N5
+211.0,嫌,いや,iya,"Noun, Adjective, な-adjective",unpleasant,unseen,N5
+212.0,じゃあ,,jaa,Conjunction,then; well; so; well then,unseen,N5
+213.0,字引,じびき,jibiki,Noun,dictionary,unseen,N5
+214.0,自分,じぶん,jibun,Pronoun,myself; yourself; oneself; himself; herself; i; me,unseen,N5
+215.0,自動車,じどうしゃ,jidousha,Noun,automobile; motorcar; motor vehicle; car,unseen,N5
+216.0,時間,じかん,jikan,Noun,time; hour(s),unseen,N5
+217.0,辞書,じしょ,jisho,Noun,dictionary,unseen,N5
+218.0,自転車,じてんしゃ,jitensha,Noun,bicycle,unseen,N5
+219.0,丈夫,じょうぶ,joubu,"Adjective, な-adjective","strong, durable",unseen,N5
+220.0,上手,じょうず,jouzu,"Noun, Adjective, な-adjective",skillful; skilled; proficient; good (at),unseen,N5
+221.0,授業,じゅぎょう,jugyou,"Noun, Suru verb",lesson; class work,unseen,N5
+222.0,十,じゅう,juu,"Noun, Numeric",ten; 10,unseen,N5
+223.0,かばん,,kaban,Noun,bag; basket​,unseen,N5
+224.0,花瓶,かびん,kabin,Noun,a vase,unseen,N5
+225.0,角,かど,kado,Noun,a corner; angle​,unseen,N5
+226.0,帰る,かえる,kaeru,"Verb, Godan verb, Intransitive verb",to go back​,unseen,N5
+227.0,返す,かえす,kaesu,"Verb, Godan verb, Transitive verb",to return something,unseen,N5
+228.0,鍵,かぎ,kagi,Noun,key,unseen,N5
+229.0,階段,かいだん,kaidan,Noun,stairs; stairway; staircase,unseen,N5
+230.0,買い物,かいもの,kaimono,Noun,shopping; purchased goods,unseen,N5
+231.0,会社,かいしゃ,kaisha,Noun,company; corporation,unseen,N5
+232.0,掛かる,かかる,kakaru,"Verb, Godan verb, Intransitive verb","to take (a resource, e.g. time or money)",unseen,N5
+233.0,掛ける,かける,kakeru,"Verb, Ichidan verb, Transitive verb",to hang up; to make (a call)​;,unseen,N5
+234.0,書く,かく,kaku,"Verb, Godan verb, Transitive verb",to write; to compose; to pen; to draw,unseen,N5
+235.0,カメラ,,kamera,"Noun, Katakana",camera,unseen,N5
+236.0,紙,かみ,kami,Noun,paper,unseen,N5
+237.0,漢字,かんじ,kanji,Noun,kanji,unseen,N5
+238.0,カップ,,kappu,"Noun, Katakana",cup,unseen,N5
+239.0,体,からだ,karada,Noun,body,unseen,N5
+240.0,辛い,からい,karai,い-adjective,spicy,unseen,N5
+241.0,カレー,,karee,"Noun, Katakana",curry,unseen,N5
+242.0,カレンダー,,karendaa,"Noun, Katakana",calendar,unseen,N5
+243.0,借りる,かりる,kariru,"Verb, Ichidan verb, Transitive verb",to borrow,unseen,N5
+244.0,軽い,かるい,karui,"Adjective, い-adjective",light,unseen,N5
+245.0,傘,かさ,kasa,Noun,umbrella,unseen,N5
+246.0,貸す,かす,kasu,"Verb, Godan verb, Transitive verb",to lend; to loan,unseen,N5
+247.0,方,かた,kata,Noun,way of doing something,unseen,N5
+248.0,家庭,かてい,katei,Noun,household,unseen,N5
+249.0,買う,かう,kau,"Verb, Godan verb, Transitive verb",to buy; to purchase,unseen,N5
+250.0,川,かわ,kawa,"Noun, Suffix",river; stream​,unseen,N5
+251.0,可愛い,かわいい,kawaii,"Adjective, い-adjective",cute,unseen,N5
+252.0,火曜日,かようび,kayoubi,Noun,Tuesday,unseen,N5
+253.0,風,かぜ,kaze,Noun,wind,unseen,N5
+254.0,風邪,かぜ,kaze,Noun,a cold,unseen,N5
+255.0,家族,かぞく,kazoku,Noun,family; members of a family,unseen,N5
+256.0,警官,けいかん,keikan,Noun,policeman; police officer,unseen,N5
+257.0,結婚,けっこん,kekkon,"Noun, Suru verb",marriage,unseen,N5
+258.0,結構,けっこう,kekkou,"Noun, Adverbial Noun, Adjective, な-adjective, Adverb","splendid, enough",unseen,N5
+259.0,今朝,けさ,kesa,"Noun, Temporal noun",this morning,unseen,N5
+260.0,消す,けす,kesu,"Verb, Godan verb, Transitive verb","to erase, to turn off power",unseen,N5
+261.0,木,き,ki,Noun,tree; shrub; bush; wood; timber,unseen,N5
+262.0,消える,きえる,kieru,"Verb, Ichidan verb, Intransitive verb",to disappear,unseen,N5
+263.0,黄色い,きいろい,kiiroi,"Adjective, い-adjective",yellow,unseen,N5
+264.0,聞く,きく,kiku,"Verb, Godan verb, Transitive verb",to hear; to listen (to music); to ask; to learn of,unseen,N5
+265.0,昨日,きのう,kinou,Noun,yesterday,unseen,N5
+266.0,金曜日,きんようび,kinyoubi,Noun,Friday,unseen,N5
+267.0,切符,きっぷ,kippu,Noun,ticket,unseen,N5
+268.0,嫌い,きらい,kirai,"Noun, Adjective, な-adjective",hate,unseen,N5
+269.0,綺麗,きれい,kirei,"Adjective, な-adjective",pretty; lovely; beautiful,unseen,N5
+270.0,キログラム,,kiro guramu,"Noun, Katakana",kilogram,unseen,N5
+271.0,キロメートル,,kiro meetoru,"Noun, Katakana",kilometer,unseen,N5
+272.0,切る,きる,kiru,"Verb, Godan verb, Transitive verb",to cut,unseen,N5
+273.0,着る,きる,kiru,"Verb, Ichidan verb, Transitive verb",to wear,unseen,N5
+274.0,喫茶店,きっさてん,kissaten,Noun,coffee shop; tearoom; cafe,unseen,N5
+275.0,北,きた,kita,Noun,north,unseen,N5
+276.0,汚い,きたない,kitanai,"Adjective, い-adjective",dirty,unseen,N5
+277.0,切手,きって,kitte,Noun,stamp (postage),unseen,N5
+278.0,こっち,,kocchi,Noun,this person or way,unseen,N5
+279.0,こちら,,kochira,Noun,this way; this direction​,unseen,N5
+280.0,子供,こども,kodomo,Noun,child,unseen,N5
+281.0,声,こえ,koe,Noun,voice,unseen,N5
+282.0,ここ,,koko,Pronoun,here; this place,unseen,N5
+283.0,九日,ここのか,kokonoka,Noun,ninth day of the month / 9 days,unseen,N5
+284.0,九つ,ここのつ,kokonotsu,"Noun, Numeric",nine; 9,unseen,N5
+285.0,困る,こまる,komaru,"Verb, Godan verb, Intransitive verb",to be troubled,unseen,N5
+286.0,今晩,こんばん,konban,Noun,tonight; this evening,unseen,N5
+287.0,今月,こんげつ,kongetsu,Noun,this month,unseen,N5
+288.0,こんな,,konna,Pre-noun adjectival,such; like this​,unseen,N5
+289.0,この,,kono,Pre-noun adjectival,this​,unseen,N5
+290.0,今週,こんしゅう,konshuu,Noun,this week,unseen,N5
+291.0,コーヒー,,koohii,"Noun, Katakana",Coffee,unseen,N5
+292.0,コート,,kooto,"Noun, Katakana",coat,unseen,N5
+293.0,コピー,,kopii,"Noun, Suru verb, Katakana",copy; photocopy,unseen,N5
+294.0,コップ,,koppu,"Noun, Katakana",glass (drinking vessel); tumbler​,unseen,N5
+295.0,これ,,kore,Pronoun,this,unseen,N5
+296.0,答える,こたえる,kotaeru,"Verb, Ichidan verb, Intransitive verb",to answer,unseen,N5
+297.0,言葉,ことば,kotoba,Noun,word; words,unseen,N5
+298.0,今年,ことし,kotoshi,Noun,this year,unseen,N5
+299.0,交番,こうばん,kouban,Noun,police box,unseen,N5
+300.0,紅茶,こうちゃ,koucha,Noun,black tea,unseen,N5
+301.0,公園,こうえん,kouen,Noun,park,unseen,N5
+302.0,交差点,こうさてん,kousaten,Noun,intersection,unseen,N5
+303.0,口,くち,kuchi,Noun,"mouth, opening",unseen,N5
+304.0,果物,くだもの,kudamono,Noun,fruit,unseen,N5
+305.0,下さい,ください,kudasai,Expression,please,unseen,N5
+306.0,曇り,くもり,kumori,Noun,cloudiness; cloudy weather,unseen,N5
+307.0,曇る,くもる,kumoru,"Verb, Godan verb, Intransitive verb","to become cloudy, to become dim",unseen,N5
+308.0,国,くに,kuni,Noun,country; state; region,unseen,N5
+309.0,暗い,くらい,kurai,"Adjective, い-adjective",dark; gloomy; murky,unseen,N5
+310.0,クラス,,kurasu,"Noun, Katakana",class,unseen,N5
+311.0,黒,くろ,kuro,Noun,black,unseen,N5
+312.0,黒い,くろい,kuroi,い-adjective,black,unseen,N5
+313.0,来る,くる,kuru,"Verb, Intransitive verb",to come,unseen,N5
+314.0,車,くるま,kuruma,Noun,car; automobile; vehicle,unseen,N5
+315.0,薬,くすり,kusuri,Noun,medicine,unseen,N5
+316.0,靴,くつ,kutsu,Noun,shoes,unseen,N5
+317.0,靴下,くつした,kutsushita,Noun,socks,unseen,N5
+318.0,去年,きょねん,kyonen,Noun,last year,unseen,N5
+319.0,今日,きょう,kyou,"Noun, Temporal noun",today; this day,unseen,N5
+320.0,兄弟,きょうだい,kyoudai,Noun,siblings; brothers and sisters​; mate,unseen,N5
+321.0,教室,きょうしつ,kyoushitsu,Noun,classroom,unseen,N5
+322.0,九,きゅう,kyuu,"Noun, Numeric",nine; 9,unseen,N5
+323.0,マッチ,,macchi,"Noun, Katakana",match,unseen,N5
+324.0,町,まち,machi,Noun,town; block; neighborhood,unseen,N5
+325.0,窓,まど,mado,Noun,window,unseen,N5
+326.0,前,まえ,mae,"Noun, Suffix",previous; before; in front; ago,unseen,N5
+327.0,曲がる,まがる,magaru,"Verb, Godan verb, Intransitive verb","to turn, to bend",unseen,N5
+328.0,毎朝,まいあさ,maiasa,Noun,every morning,unseen,N5
+329.0,毎晩,まいばん,maiban,Noun,every night,unseen,N5
+330.0,毎日,まいにち,mainichi,Noun,every day,unseen,N5
+331.0,毎週,まいしゅう,maishuu,Noun,every week,unseen,N5
+332.0,毎年,まいとし / まいねん,maitoshi / mainen,Noun,every year; yearly; annually,unseen,N5
+333.0,毎月,まいつき,maitsuki,Noun,every month; monthly,unseen,N5
+334.0,万,まん,man,"Noun, Numeric","10,000; ten thousand",unseen,N5
+335.0,万年筆,まんねんひつ,mannenhitsu,Noun,fountain pen,unseen,N5
+336.0,丸い,まるい,marui,"Adjective, い-adjective","round,circular",unseen,N5
+337.0,真っ直ぐ,まっすぐ,massugu,"Noun, Adjective, な-adjective, Adverb","straight ahead,direct",unseen,N5
+338.0,待つ,まつ,matsu,"Verb, Godan verb, Intransitive verb, Transitive verb",to wait​,unseen,N5
+339.0,不味い,まずい,mazui,"Adjective, い-adjective",unpleasant,unseen,N5
+340.0,目,め,me,Noun,eye,unseen,N5
+341.0,メートル,,meetoru,"Noun, Katakana",metre; meter,unseen,N5
+342.0,眼鏡,めがね,megane,Noun,glasses,unseen,N5
+343.0,道,みち,michi,Noun,road; street,unseen,N5
+344.0,緑,みどり,midori,Noun,green,unseen,N5
+345.0,磨く,みがく,migaku,"Verb, Godan verb, Intransitive verb",to polish; to shine; to brush (e.g. teeth),unseen,N5
+346.0,右,みぎ,migi,Noun,right; right hand side,unseen,N5
+347.0,短い,みじかい,mijikai,"Adjective, い-adjective",short,unseen,N5
+348.0,三日,みっか,mikka,Noun,the third day of the month / 3 days,unseen,N5
+349.0,耳,みみ,mimi,Noun,ear; hearing,unseen,N5
+350.0,南,みなみ,minami,Noun,south,unseen,N5
+351.0,皆さん,みなさん,minasan,Noun,everyone,unseen,N5
+352.0,みんな,,minna,"Noun, Adverb",all; everyone; everybody,unseen,N5
+353.0,見る,みる,miru,"Verb, Ichidan verb, Transitive verb",to see; to look; to watch; to view; to observe,unseen,N5
+354.0,店,みせ,mise,Noun,store; shop; establishment; restaurant,unseen,N5
+355.0,見せる,みせる,miseru,"Verb, Ichidan verb, Transitive verb",to show; to display,unseen,N5
+356.0,三つ,みっつ,mittsu,"Noun, Numeric",three; 3,unseen,N5
+357.0,水,みず,mizu,Noun,water; fluid; liquid​,unseen,N5
+358.0,木曜日,もくようび,mokuyoubi,Noun,Thursday,unseen,N5
+359.0,門,もん,mon,Noun,gate,unseen,N5
+360.0,問題,もんだい,mondai,Noun,problem; question (e.g. on a test),unseen,N5
+361.0,物,もの,mono,Noun,thing,unseen,N5
+362.0,持つ,もつ,motsu,"Verb, Godan verb",to hold,unseen,N5
+363.0,もっと,,motto,Adverb,more; longer; further,unseen,N5
+364.0,もう一度,もういちど,mouichido,Expression,once more; again,unseen,N5
+365.0,六日,むいか,muika,Noun,sixth day of the month / 6 days,unseen,N5
+366.0,向こう,むこう,mukou,Noun,over there,unseen,N5
+367.0,村,むら,mura,Noun,village,unseen,N5
+368.0,六つ,むっつ,muttsu,"Noun, Numeric",six; 6,unseen,N5
+369.0,難しい,むずかしい,muzukashii,"Adjective, い-adjective",difficult,unseen,N5
+370.0,長い,ながい,nagai,"Adjective, い-adjective",long (distance)​; long (time); lengthy.,unseen,N5
+371.0,ナイフ,,naifu,"Noun, Katakana",knife,unseen,N5
+372.0,中,なか,naka,Noun,inside; in; within; center,unseen,N5
+373.0,鳴く,なく,naku,"Verb, Godan verb, Intransitive verb",animal noise. to chirp,unseen,N5
+374.0,無くす,なくす,nakusu,"Verb, Godan verb, Transitive verb",to lose (something),unseen,N5
+375.0,名前,なまえ,namae,Noun,name; full name; given name,unseen,N5
+376.0,七つ,ななつ,nanatsu,"Noun, Numeric",seven; 7,unseen,N5
+377.0,何,なに,nani,"Noun, Pronoun, Prefix",what,unseen,N5
+378.0,七日,なのか,nanoka,Noun,seventh day of the month / 7 days,unseen,N5
+379.0,並べる,ならべる,naraberu,"Verb, Ichidan verb, Transitive verb","to line up,to set up",unseen,N5
+380.0,並ぶ,ならぶ,narabu,"Verb, Godan verb, Intransitive verb","to line up,to stand in a line",unseen,N5
+381.0,習う,ならう,narau,"Verb, Godan verb, Transitive verb",to be taught; to learn (from a teacher),unseen,N5
+382.0,夏,なつ,natsu,Noun,summer,unseen,N5
+383.0,夏休み,なつやすみ,natsuyasumi,Noun,summer vacation; summer holiday,unseen,N5
+384.0,何故,なぜ,naze,Adverb,why; how,unseen,N5
+385.0,猫,ねこ,neko,Noun,cat,unseen,N5
+386.0,ネクタイ,,nekutai,"Noun, Katakana",tie; necktie,unseen,N5
+387.0,寝る,ねる,neru,"Verb, Ichidan verb, Intransitive verb",to sleep; to go to bed; to lie down,unseen,N5
+388.0,二,に,ni,"Noun, Numeric",two; 2,unseen,N5
+389.0,日曜日,にちようび,nichiyoubi,Noun,Sunday,unseen,N5
+390.0,賑やか,にぎやか,nigiyaka,"Adjective, な-adjective","bustling,busy",unseen,N5
+391.0,日記,にっき,nikki,Noun,diary; journal,unseen,N5
+392.0,肉,にく,niku,Noun,meat,unseen,N5
+393.0,荷物,にもつ,nimotsu,Noun,luggage; baggage,unseen,N5
+394.0,西,にし,nishi,Noun,west,unseen,N5
+395.0,庭,にわ,niwa,Noun,garden,unseen,N5
+396.0,登る,のぼる,noboru,"Verb, Godan verb, Intransitive verb",to climb,unseen,N5
+397.0,飲み物,のみもの,nomimono,Noun,drink; beverage,unseen,N5
+398.0,飲む,のむ,nomu,"Verb, Godan verb, Transitive verb",to drink,unseen,N5
+399.0,ノート,,nooto,"Noun, Katakana",notebook,unseen,N5
+400.0,乗る,のる,noru,"Verb, Godan verb, Intransitive verb","to get on (train, plane, bus, ship, etc.)",unseen,N5
+401.0,脱ぐ,ぬぐ,nugu,"Verb, Godan verb, Transitive verb",to take off clothes,unseen,N5
+402.0,温い,ぬるい,nurui,"Adjective, い-adjective",luke warm,unseen,N5
+403.0,ニュース,,nyuusu,"Noun, Katakana",news,unseen,N5
+404.0,おばあさん,,obaasan,Noun,grandmother,unseen,N5
+405.0,伯母さん,おばさん,obasan,Noun,aunt; old lady,unseen,N5
+406.0,お弁当,おべんとう,obentou,Noun,lunch box; Japanese box lunch,unseen,N5
+407.0,覚える,おぼえる,oboeru,"Verb, Ichidan verb, Transitive verb",to remember,unseen,N5
+408.0,お茶,おちゃ,ocha,Noun,tea,unseen,N5
+409.0,お風呂,おふろ,ofuro,Noun,bath,unseen,N5
+410.0,美味しい,おいしい,oishii,い-adjective,delicious,unseen,N5
+411.0,伯父さん,おじさん,ojisan,Noun,uncle; old man; mister,unseen,N5
+412.0,お母さん,おかあさん,okaasan,Noun,mother; mom; mum; ma,unseen,N5
+413.0,お金,おかね,okane,Noun,money,unseen,N5
+414.0,お菓子,おかし,okashi,Noun,confections; sweets; candy,unseen,N5
+415.0,起きる,おきる,okiru,"Verb, Ichidan verb, Intransitive verb",to get up; to wake up,unseen,N5
+416.0,置く,おく,oku,"Verb, Godan verb, Transitive verb",to put; to place​,unseen,N5
+417.0,奥さん,おくさん,okusan,Noun,wife; your wife; his wife,unseen,N5
+418.0,お巡りさん,おまわりさん,omawari san,Noun,police officer (friendly term for policeman),unseen,N5
+419.0,重い,おもい,omoi,い-adjective,heavy,unseen,N5
+420.0,面白い,おもしろい,omoshiroi,"Adjective, い-adjective",interesting,unseen,N5
+421.0,同じ,おなじ,onaji,"Noun, Adverb",same,unseen,N5
+422.0,お腹,おなか,onaka,Noun,stomach,unseen,N5
+423.0,お姉さん,おねえさん,oneesan,Noun,elder sister; young lady; miss; ma'am,unseen,N5
+424.0,音楽,おんがく,ongaku,Noun,music,unseen,N5
+425.0,お兄さん,おにいさん,oniisan,Noun,older brother; elder brother; young man; buddy,unseen,N5
+426.0,女,おんな,onna,"Noun, Prefix",woman; female sex,unseen,N5
+427.0,女の子,おんなのこ,onnanoko,"Noun, Expression",girl; daughter; young women,unseen,N5
+428.0,多い,おおい,ooi,"Adjective, い-adjective",many; numerous; a lot; large quantity; frequent,unseen,N5
+429.0,大きい,おおきい,ookii,"Adjective, い-adjective",big; large; great; important,unseen,N5
+430.0,大きな,おおきな,ookina,Pre-noun adjectival,big; large; great​,unseen,N5
+431.0,大勢,おおぜい,oozei,Noun,crowd of people; great number of people,unseen,N5
+432.0,降りる,おりる,oriru,"Verb, Ichidan verb, Intransitive verb",to get off,unseen,N5
+433.0,お酒,おさけ,osake,Noun,alcohol,unseen,N5
+434.0,お皿,おさら,osara,Noun,"plate, dish",unseen,N5
+435.0,教える,おしえる,oshieru,"Verb, Ichidan verb, Transitive verb",to teach,unseen,N5
+436.0,遅い,おそい,osoi,"Adjective, い-adjective",slow; time-consuming; late,unseen,N5
+437.0,押す,おす,osu,"Verb, Godan verb, Transitive verb",to push; to press​,unseen,N5
+438.0,お手洗い,おてあらい,otearai,Noun,toilet; restroom; lavatory; bathroom,unseen,N5
+439.0,男,おとこ,otoko,Noun,man; male,unseen,N5
+440.0,男の子,おとこのこ,otokonoko,"Noun, Expression",boy; male child; baby boy,unseen,N5
+441.0,大人,おとな,otona,Noun,adult,unseen,N5
+442.0,一昨日,おととい,ototoi,Noun,day before yesterday,unseen,N5
+443.0,一昨年,おととし,ototoshi,Noun,year before last,unseen,N5
+444.0,お父さん,おとうさん,otousan,Noun,father; dad; papa; pa; pop; daddy,unseen,N5
+445.0,弟,おとうと,otouto,Noun,younger brother,unseen,N5
+446.0,終わる,おわる,owaru,"Verb, Godan verb, Intransitive verb",to finish; to end,unseen,N5
+447.0,泳ぐ,およぐ,oyogu,"Verb, Godan verb, Intransitive verb",to swim,unseen,N5
+448.0,パーティー,,paatii,"Noun, Katakana",party,unseen,N5
+449.0,パン,,pan,"Noun, Katakana",bread,unseen,N5
+450.0,ページ,,peeji,"Noun, Katakana",page,unseen,N5
+451.0,ペン,,pen,"Noun, Katakana",pen,unseen,N5
+452.0,ペット,,petto,"Noun, Katakana",pet,unseen,N5
+453.0,ポケット,,poketto,Noun,pocket,unseen,N5
+454.0,ポスト,,posuto,"Noun, Katakana",post,unseen,N5
+455.0,プール,,puuru,"Noun, Katakana",swimming pool,unseen,N5
+456.0,来月,らいげつ,raigetsu,Noun,next month,unseen,N5
+457.0,来年,らいねん,rainen,Noun,next year,unseen,N5
+458.0,来週,らいしゅう,raishuu,Noun,next week,unseen,N5
+459.0,ラジオ,,rajiio,"Noun, Katakana",radio,unseen,N5
+460.0,零,れい,rei,Noun,zero,unseen,N5
+461.0,冷蔵庫,れいぞうこ,reizouko,Noun,refrigerator,unseen,N5
+462.0,レコード,,rekoodo,"Noun, Katakana",record,unseen,N5
+463.0,練習,れんしゅう,renshuu,"Noun, Verb, Suru verb",practice; practicing,unseen,N5
+464.0,レストラン,,resutoran,"Noun, Katakana",restaurant,unseen,N5
+465.0,立派,りっぱ,rippa,"Adjective, な-adjective",splendid,unseen,N5
+466.0,六,ろく,roku,"Noun, Numeric",six; 6,unseen,N5
+467.0,廊下,ろうか,rouka,Noun,corridor; hallway; passageway,unseen,N5
+468.0,旅行,りょこう,ryokou,"Noun, Verb, Suru verb",travel; trip; journey; excursion; tour,unseen,N5
+469.0,料理,りょうり,ryouri,"Noun, Suru verb",cuisine,unseen,N5
+470.0,両親,りょうしん,ryoushin,Noun,parents; both parents,unseen,N5
+471.0,留学生,りゅうがくせい,ryuugakusei,Noun,overseas student; exchange student,unseen,N5
+472.0,さあ,,saa,Conjunction,well…,unseen,N5
+473.0,財布,さいふ,saifu,Noun,purse; wallet,unseen,N5
+474.0,魚,さかな,sakana,Noun,fish,unseen,N5
+475.0,先,さき,saki,"Noun, Prefix, Suffix",previous; prior; first; earlier,unseen,N5
+476.0,咲く,さく,saku,"Verb, Godan verb, Intransitive verb",to bloom,unseen,N5
+477.0,作文,さくぶん,sakubun,Noun,writing; composition,unseen,N5
+478.0,寒い,さむい,samui,"Adjective, い-adjective",cold,unseen,N5
+479.0,三,さん,san,"Noun, Numeric",three; 3,unseen,N5
+480.0,散歩,さんぽ,sanpo,"Noun, Verb, Suru verb",walk; stroll,unseen,N5
+481.0,再来年,さらいねん,sarainen,Noun,year after next,unseen,N5
+482.0,差す,さす,sasu,"Verb, Godan verb, Transitive verb","to stretch out hands, to raise an umbrella",unseen,N5
+483.0,砂糖,さとう,satou,Noun,sugar,unseen,N5
+484.0,背,せ,se,Noun,height; stature; back; spine,unseen,N5
+485.0,背広,せびろ,sebiro,Noun,business suit,unseen,N5
+486.0,セーター,,seetaa,"Noun, Katakana",sweater; jumper,unseen,N5
+487.0,生徒,せいと,seito,Noun,pupil; student,unseen,N5
+488.0,石鹼,せっけん,sekken,Noun,soap,unseen,N5
+489.0,狭い,せまい,semai,い-adjective,narrow,unseen,N5
+490.0,千,せん,sen,"Noun, Numeric","1,000; thousand",unseen,N5
+491.0,先月,せんげつ,sengetsu,Noun,last month,unseen,N5
+492.0,先生,せんせい,sensei,"Noun, Suffix",teacher; instructor; master,unseen,N5
+493.0,先週,せんしゅう,senshuu,Noun,last week,unseen,N5
+494.0,洗濯,せんたく,sentaku,"Noun, Suru verb",washing; laundry,unseen,N5
+495.0,写真,しゃしん,shashin,Noun,photograph; photo,unseen,N5
+496.0,シャツ,,shatsu,"Noun, Katakana",shirt,unseen,N5
+497.0,シャワー,,shawaa,"Noun, Katakana",shower,unseen,N5
+498.0,四,し,shi,"Noun, Numeric",four; 4,unseen,N5
+499.0,七,しち,shichi,"Noun, Numeric",seven; 7,unseen,N5
+500.0,仕事,しごと,shigoto,"Noun, Verb, Suru verb",work; job; business,unseen,N5
+501.0,閉まる,しまる,shimaru,"Verb, Godan verb, Intransitive verb","to close, to be closed",unseen,N5
+502.0,閉める,しめる,shimeru,"Verb, Ichidan verb, Transitive verb",to close; to shut,unseen,N5
+503.0,締める,しめる,shimeru,"Verb, Ichidan verb, Transitive verb",to tie; to fasten; to tighten​,unseen,N5
+504.0,新聞,しんぶん,shinbun,Noun,newspaper,unseen,N5
+505.0,死ぬ,しぬ,shinu,"Verb, Godan verb, Intransitive verb",to die,unseen,N5
+506.0,塩,しお,shio,Noun,salt,unseen,N5
+507.0,白,しろ,shiro,Noun,white; innocence; innocent person,unseen,N5
+508.0,白い,しろい,shiroi,"Adjective, い-adjective",white,unseen,N5
+509.0,知る,しる,shiru,"Verb, Godan verb, Transitive verb",to know,unseen,N5
+510.0,下,した,shita,Noun,below; down; under; bottom,unseen,N5
+511.0,質問,しつもん,shitsumon,"Noun, Verb, Suru verb",question; inquiry,unseen,N5
+512.0,静か,しずか,shizuka,"Adjective, な-adjective",quiet,unseen,N5
+513.0,食堂,しょくどう,shokudou,Noun,cafeteria; dining room,unseen,N5
+514.0,醬油,しょうゆ,shouyu,Noun,soy sauce,unseen,N5
+515.0,宿題,しゅくだい,shukudai,Noun,homework; assignment; pending issue,unseen,N5
+516.0,そば,,soba,Noun,near; beside,unseen,N5
+517.0,そっち,,socchi,Pronoun,that way; ​over there,unseen,N5
+518.0,そちら,,sochira,Pronoun,"that way (distant from speaker, close to listener); you; your family",unseen,N5
+519.0,そこ,,soko,Pronoun,that place​; there,unseen,N5
+520.0,その,,sono,Pre-noun adjectival,that,unseen,N5
+521.0,空,そら,sora,Noun,sky; the air,unseen,N5
+522.0,それ,,sore,Pronoun,that,unseen,N5
+523.0,それでは,,sore dewa,Expression,in that situation,unseen,N5
+524.0,外,そと,soto,Noun,outside; exterior;,unseen,N5
+525.0,掃除,そうじ,souji,"Noun, Suru verb","to clean, to sweep",unseen,N5
+526.0,直ぐに,すぐに,sugu ni,Adverb,immediately; right away; instantly​,unseen,N5
+527.0,水曜日,すいようび,suiyoubi,Noun,Wednesday,unseen,N5
+528.0,スカート,,sukaato,"Noun, Katakana",skirt,unseen,N5
+529.0,好き,すき,suki,"Noun, Adjective, な-adjective",like,unseen,N5
+530.0,少し,すこし,sukoshi,"Noun, Adverb",a little (bit); small quantity; few; short distance,unseen,N5
+531.0,少ない,すくない,sukunai,い-adjective,few; a little; scarce; insufficient; seldom,unseen,N5
+532.0,住む,すむ,sumu,"Verb, Godan verb, Intransitive verb",to live in; to reside; to inhabit; to dwell; to abide,unseen,N5
+533.0,スポーツ,,supootsu,"Noun, Katakana",sport; sports,unseen,N5
+534.0,スプーン,,supuun,"Noun, Katakana",spoon,unseen,N5
+535.0,スリッパ,,surippa,"Noun, Katakana",slipper; slippers,unseen,N5
+536.0,ストーブ,,sutoobu,"Noun, Katakana",heater; stove,unseen,N5
+537.0,吸う,すう,suu,"Verb, Godan verb, Transitive verb","to smoke, to suck",unseen,N5
+538.0,座る,すわる,suwaru,"Verb, Godan verb, Intransitive verb",to sit,unseen,N5
+539.0,涼しい,すずしい,suzushii,"Adjective, い-adjective","refreshing, cool",unseen,N5
+540.0,たばこ,,tabako,Noun,tobacco; cigarette,unseen,N5
+541.0,食べ物,たべもの,tabemono,Noun,food,unseen,N5
+542.0,食べる,たべる,taberu,"Verb, Ichidan verb, Intransitive verb",to eat,unseen,N5
+543.0,多分,たぶん,tabun,"Adjective, な-adjective, Adverb",perhaps; probably,unseen,N5
+544.0,大変,たいへん,taihen,"Noun, Adjective, な-adjective, Adverb",very; greatly; terribly; serious; difficult,unseen,N5
+545.0,大切,たいせつ,taisetsu,"Noun, Adjective, な-adjective",important; necessary; indispensable; beloved,unseen,N5
+546.0,大使館,たいしかん,taishikan,Noun,embassy,unseen,N5
+547.0,高い,たかい,takai,"Adjective, い-adjective",high; tall; expensive; above average,unseen,N5
+548.0,沢山,たくさん,takusan,"Noun, Adverbial Noun, Adjective, な-adjective",many,unseen,N5
+549.0,タクシー,,takushii,"Noun, Katakana",taxi,unseen,N5
+550.0,卵,たまご,tamago,Noun,eggs; egg,unseen,N5
+551.0,誕生日,たんじょうび,tanjoubi,Noun,birthday,unseen,N5
+552.0,頼む,たのむ,tanomu,"Verb, Godan verb, Transitive verb",to ask,unseen,N5
+553.0,楽しい,たのしい,tanoshii,"Adjective, い-adjective",enjoyable; fun,unseen,N5
+554.0,縦,たて,tate,Noun,"length,height",unseen,N5
+555.0,建物,たてもの,tatemono,Noun,building,unseen,N5
+556.0,立つ,たつ,tatsu,"Verb, Godan verb, Intransitive verb",to stand; to stand up​,unseen,N5
+557.0,手,て,te,Noun,hand; arm,unseen,N5
+558.0,テーブル,,teeburu,"Noun, Katakana",table,unseen,N5
+559.0,テープ,,teepu,"Noun, Katakana",tape,unseen,N5
+560.0,テープレコーダー,,teepu rekoodaa,"Noun, Katakana",tape recorder,unseen,N5
+561.0,手紙,てがみ,tegami,Noun,Letter (message)​,unseen,N5
+562.0,天気,てんき,tenki,Noun,weather; the elements,unseen,N5
+563.0,テレビ,,terebi,"Noun, Katakana",television; TV​,unseen,N5
+564.0,テスト,,tesuto,"Noun, Suru verb, Katakana",examination; quiz; test,unseen,N5
+565.0,戸,と,to,Noun,Japanese style door,unseen,N5
+566.0,飛ぶ,とぶ,tobu,"Verb, Godan verb, Intransitive verb",to fly; to hop,unseen,N5
+567.0,トイレ,,toire,"Noun, Katakana",toilet,unseen,N5
+568.0,時計,とけい,tokei,Noun,watch; clock; timepiece,unseen,N5
+569.0,時,とき,toki,Noun,time; moment; occasion; chance,unseen,N5
+570.0,時々,ときどき,tokidoki,"Noun, Adverb",sometimes; at times,unseen,N5
+571.0,所,ところ,tokoro,"Noun, Suffix",place,unseen,N5
+572.0,止まる,とまる,tomaru,"Verb, Godan verb, Intransitive verb",to stop; to come to a halt,unseen,N5
+573.0,友達,ともだち,tomodachi,Noun,friend; companion,unseen,N5
+574.0,隣,となり,tonari,Noun,next door to,unseen,N5
+575.0,遠い,とおい,tooi,"Adjective, い-adjective",far,unseen,N5
+576.0,十日,とおか,tooka,Noun,tenth day of the month / 10 days,unseen,N5
+577.0,鳥,とり,tori,Noun,bird,unseen,N5
+578.0,鶏肉,とりにく,toriniku,Noun,chicken meat,unseen,N5
+579.0,取る,とる,toru,"Verb, Godan verb, Transitive verb",to take; to pick up; to harvest; to earn; to win; to choose,unseen,N5
+580.0,撮る,とる,toru,"Verb, Godan verb, Transitive verb",to take a photo or record a film,unseen,N5
+581.0,年,とし,toshi,Noun,year; age,unseen,N5
+582.0,図書館,としょかん,toshokan,Noun,library,unseen,N5
+583.0,次,つぎ,tsugi,Noun,next,unseen,N5
+584.0,一日,ついたち,tsuitachi,Noun,first day of the month,unseen,N5
+585.0,疲れる,つかれる,tsukareru,"Verb, Ichidan verb, Intransitive verb",to get tired,unseen,N5
+586.0,使う,つかう,tsukau,"Verb, Godan verb, Transitive verb",to use,unseen,N5
+587.0,つける,,tsukeru,"Verb, Ichidan verb, Transitive verb",to turn on,unseen,N5
+588.0,付ける,つける,tsukeru,"Verb, Ichidan verb, Transitive verb",to attach; affix; add; apply,unseen,N5
+589.0,着く,つく,tsuku,"Verb, Godan verb, Intransitive verb",to arrive at,unseen,N5
+590.0,机,つくえ,tsukue,Noun,desk,unseen,N5
+591.0,作る,つくる,tsukuru,"Verb, Godan verb, Transitive verb",to make,unseen,N5
+592.0,詰まらない,つまらない,tsumaranai,"Adjective, い-adjective",boring,unseen,N5
+593.0,冷たい,つめたい,tsumetai,い-adjective,cold to the touch,unseen,N5
+594.0,勤める,つとめる,tsutomeru,"Verb, Ichidan verb, Transitive verb",to work for someone,unseen,N5
+595.0,強い,つよい,tsuyoi,"Adjective, い-adjective",powerful,unseen,N5
+596.0,上,うえ,ue,"Noun, Suffix",above; up; over; top; surface,unseen,N5
+597.0,生まれる,うまれる,umareru,"Verb, Ichidan verb, Intransitive verb",to be born,unseen,N5
+598.0,海,うみ,umi,Noun,sea,unseen,N5
+599.0,売る,うる,uru,"Verb, Godan verb, Transitive verb",to sell,unseen,N5
+600.0,煩い,うるさい,urusai,い-adjective,"noisy, annoying",unseen,N5
+601.0,後ろ,うしろ,ushiro,Noun,back; behind; rear,unseen,N5
+602.0,薄い,うすい,usui,"Adjective, い-adjective",thin; weak,unseen,N5
+603.0,歌,うた,uta,Noun,song,unseen,N5
+604.0,歌う,うたう,utau,"Verb, Godan verb, Intransitive verb, Transitive verb",to sing,unseen,N5
+605.0,上着,うわぎ,uwagi,Noun,coat; tunic; jacket; outer garment,unseen,N5
+606.0,ワイシャツ,,wai shatsu,"Noun, Katakana, Wasei",shirt,unseen,N5
+607.0,若い,わかい,wakai,"Adjective, い-adjective",young,unseen,N5
+608.0,分かる,わかる,wakaru,"Verb, Godan verb, Intransitive verb",to understand; to comprehend; to grasp; to see; to get; to follow,unseen,N5
+609.0,悪い,わるい,warui,"Adjective, い-adjective",bad; poor; undesirable,unseen,N5
+610.0,忘れる,わすれる,wasureru,"Verb, Ichidan verb, Transitive verb",to forget,unseen,N5
+611.0,渡る,わたる,wataru,"Verb, Godan verb, Intransitive verb",to go across,unseen,N5
+612.0,私,わたし,watashi,Pronoun,I; myself,unseen,N5
+613.0,渡す,わたす,watasu,"Verb, Godan verb, Transitive verb",to hand over,unseen,N5
+614.0,山,やま,yama,Noun,mountain; hill,unseen,N5
+615.0,八百屋,やおや,yaoya,Noun,greengrocer; fruit and vegetable shop; versatile,unseen,N5
+616.0,やる,,yaru,"Verb, Godan verb, Transitive verb",to do,unseen,N5
+617.0,野菜,やさい,yasai,Noun,vegetable,unseen,N5
+618.0,易しい,やさしい,yasashii,"Adjective, い-adjective","easy, simple",unseen,N5
+619.0,安い,やすい,yasui,"Adjective, い-adjective",cheap; inexpensive,unseen,N5
+620.0,休み,やすみ,yasumi,Noun,rest; vacation; holiday,unseen,N5
+621.0,休む,やすむ,yasumu,"Verb, Godan verb, Intransitive verb",to be absent; to take a day off; to rest,unseen,N5
+622.0,八つ,やっつ,yattsu,"Noun, Numeric",eight: 8,unseen,N5
+623.0,呼ぶ,よぶ,yobu,"Verb, Godan verb, Transitive verb","to call out, to invite",unseen,N5
+624.0,良い,よい/いい,yoi/ii,"Adjective, い-adjective",good,unseen,N5
+625.0,四日,よっか,yokka,Noun,fourth day of the month / 4 days,unseen,N5
+626.0,横,よこ,yoko,Noun,"beside,side,width",unseen,N5
+627.0,よく,,yoku,Adverb,"often, well",unseen,N5
+628.0,読む,よむ,yomu,"Verb, Godan verb, Transitive verb",to read; to guess; to predict; to read (someone's thoughts),unseen,N5
+629.0,夜,よる,yoru,Noun,evening; night,unseen,N5
+630.0,四つ,よつ,yotsu,"Noun, Numeric",four; 4,unseen,N5
+631.0,洋服,ようふく,youfuku,Noun,western clothes,unseen,N5
+632.0,八日,ようか,youka,Noun,eighth day of the month / 8 days,unseen,N5
+633.0,弱い,よわい,yowai,"Adjective, い-adjective",weak,unseen,N5
+634.0,雪,ゆき,yuki,Noun,snow,unseen,N5
+635.0,ゆっくり,,yukkuri,Adverb,slowly,unseen,N5
+636.0,昨夜,ゆうべ,yuube,Noun,last night,unseen,N5
+637.0,郵便局,ゆうびんきょく,yuubinkyoku,Noun,post office,unseen,N5
+638.0,夕方,ゆうがた,yuugata,Noun,evening; dusk,unseen,N5
+639.0,夕飯,ゆうはん,yuuhan,Noun,evening meal,unseen,N5
+640.0,有名,ゆうめい,yuumei,"Noun, Adjective, な-adjective",famous,unseen,N5
+641.0,雑誌,ざっし,zasshi,Noun,magazine,unseen,N5
+642.0,全部,ぜんぶ,zenbu,"Noun, Adverbial Noun",all,unseen,N5
+643.0,ゼロ,,zero,Noun,zero,unseen,N5
+644.0,ズボン,,zubon,"Noun, Katakana",trousers; pants,unseen,N5

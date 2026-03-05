@@ -1,0 +1,85 @@
+﻿#,Grammar Lesson,Grammar Lesson Japanese,Grammar Meaning,Learning Status,Level
+1,cha ikenai / ja ikenai,ちゃいけない・じゃいけない,must not do (spoken Japanese),unseen,N5
+2,da / desu,だ / です,"to be (am, is, are, were, used to)",unseen,N5
+3,dake,だけ,only; just; as much as ~,unseen,N5
+4,darou,だろう,I think; it seems; probably; right?,unseen,N5
+5,de,で,in; at; on; by; with; via ~,unseen,N5
+6,demo,でも,but; however; though ~,unseen,N5
+7,deshou,でしょう,I think; it seems; probably; right?,unseen,N5
+8,donna,どんな,what kind of; what sort of,unseen,N5
+9,doushite,どうして,why; for what reason; how,unseen,N5
+10,douyatte,どうやって,how; in what way; by what means​,unseen,N5
+11,ga,が,subject marker; however; but ~,unseen,N5
+12,ga arimasu,があります,there is; is (non-living things),unseen,N5
+13,ga hoshii,がほしい,to want something,unseen,N5
+14,ga imasu,がいます,there is; to be; is (living things),unseen,N5
+15,hou ga ii,ほうがいい,had better; it'd be better to; should ~,unseen,N5
+16,i-adjectives,い-adjectives,i-adjectives,unseen,N5
+17,ichiban,一番（いちばん）,the most; the best,unseen,N5
+18,issho ni,一緒に（いっしょに）,together,unseen,N5
+19,itsumo,いつも,always; usually; habitually,unseen,N5
+20,janai / dewa nai,じゃない・ではない,to not be (am not; is not; are not),unseen,N5
+21,ka,か,question particle,unseen,N5
+22,ka~ka,か～か,or,unseen,N5
+23,kara,から,because; since; from,unseen,N5
+24,kata,方（かた）,the way of doing something; how to do ~,unseen,N5
+25,kedo,けど,but; however; although ~,unseen,N5
+26,keredo mo,けれども,but; however; although ~,unseen,N5
+27,mada,まだ,still; not yet,unseen,N5
+28,mada ~te imasen,まだ～ていません,have not yet ~,unseen,N5
+29,made,まで,until; as far as; to (an extent); even ~,unseen,N5
+30,mae ni,前に（まえに）,before; in front of ~,unseen,N5
+31,masen ka,ませんか,would you; do you want to; shall we ~,unseen,N5
+32,mashou,ましょう,let's ~; shall we ~,unseen,N5
+33,mashouka,ましょうか,shall I ~; used to offer help to the listener,unseen,N5
+34,mo,も,too; also; as well,unseen,N5
+35,mou,もう,already; anymore; again; other,unseen,N5
+36,na-adjectives,な-adjectives,na-adjectives,unseen,N5
+37,naa,なあ,"sentence ending particle; confirmation; admiration, etc",unseen,N5
+38,naide,ないで,without doing ~; to do [B] without doing [A],unseen,N5
+39,naide kudasai,ないでください,please don't do ~,unseen,N5
+40,naito ikenai,ないといけない,must do; have an obligation to do ~,unseen,N5
+41,naku temo ii,なくてもいい,don't have to,unseen,N5
+42,nakucha,なくちゃ,must do; need to; gotta do ~,unseen,N5
+43,nakute wa ikenai,なくてはいけない,must do; need to do,unseen,N5
+44,nakute wa naranai,なくてはならない,must do; need to do ~,unseen,N5
+45,naru,なる,to become,unseen,N5
+46,ndesu,んです,to explain something; show emphasis,unseen,N5
+47,ne,ね,isn't it? right? eh?,unseen,N5
+48,ni,に,destination particle; in; at; on; to,unseen,N5
+49,ni iku,に行く（にいく）,go to do ~,unseen,N5
+50,ni suru,にする,to decide on,unseen,N5
+51,ni/e,に/へ,to (indicates direction / destination),unseen,N5
+52,no,の,possessive particle,unseen,N5
+53,no desu,のです,to explain something; show emphasis,unseen,N5
+54,no ga heta,のが下手（のがへた）,to be bad at doing something,unseen,N5
+55,no ga jouzu,のが上手（のがじょうず）,to be good at,unseen,N5
+56,no ga suki,のが好き（のがすき）,to like doing something,unseen,N5
+57,no naka de [A] ga ichiban,の中で[A]が一番（のなかで[A]がいちばん）,"out of this group, [A] is best",unseen,N5
+58,node,ので,because of; given that; since ~,unseen,N5
+59,o / go,お / ご,polite marker; honorific prefix particle,unseen,N5
+60,o / wo,を,object marker particle,unseen,N5
+61,o kudasai,をください,please give me ~,unseen,N5
+62,shikashi,しかし,but; however ~,unseen,N5
+63,sore kara,それから,and; and then; after that; since then,unseen,N5
+64,soshite,そして,and; and then; thus; and now ~,unseen,N5
+65,sugiru,すぎる,too much,unseen,N5
+66,ta koto ga aru,たことがある,to have done something before,unseen,N5
+67,tai,たい,want to do something,unseen,N5
+68,tari~tari,たり～たり,do such things as A and B,unseen,N5
+69,te aru,てある,is/has been done (resulting state),unseen,N5
+70,te iru,ている,ongoing action or current state,unseen,N5
+71,te kara,てから,after doing ~,unseen,N5
+72,te kudasai,てください,please do,unseen,N5
+73,te wa ikenai,てはいけない,must not; may not; cannot,unseen,N5
+74,temo ii desu,てもいいです,is OK to ~; is alright to ~; may I ~?,unseen,N5
+75,to,と,and; with; as; connecting particle,unseen,N5
+76,toki,とき,when; at this time,unseen,N5
+77,totemo,とても,very; awfully; exceedingly​,unseen,N5
+78,tsumori,つもり,plan to ~; intend to ~,unseen,N5
+79,wa - topic marker,は,topic marker,unseen,N5
+80,wa ~yori... desu,は〜より・・・です,[Noun-1] is more ~ than [Noun-2],unseen,N5
+81,wa dou desu ka,はどうですか,how about; how is,unseen,N5
+82,ya,や,and; or; connecting particle,unseen,N5
+83,yo,よ,you know; emphasis (ending particle),unseen,N5
+84,yori ~hou ga,より～ほうが,[2] is more than [1],unseen,N5
